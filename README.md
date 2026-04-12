@@ -1,11 +1,14 @@
-
-
 <div align="center">
 
 <!-- Typing Animation -->
 <h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Hi+I'm+Kunal+Chachane+⚡;Backend+Developer+In+Progress+💻;Building+Scalable+Systems+%26+APIs;Welcome+to+My+GitHub+⚔" />
 </h1>
+
+<!-- ⭐ Profile Views Badge -->
+<img src="https://komarev.com/ghpvc/?username=Kunal-Chachane&label=Profile%20Views&color=00D9FF&style=for-the-badge&logo=github" />
+
+<br><br>
 
 <!-- Dark Tech GIF -->
 <img src="https://i.gifer.com/origin/8a/8a84d91e9f510a7f4c2de913574ea8b5_w200.gif" width="250px" style="border-radius:20px;"/>
