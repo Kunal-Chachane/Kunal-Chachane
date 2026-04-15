@@ -74,7 +74,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/Kunal_999/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="50" style="filter: invert(65%) sepia(98%) saturate(500%) hue-rotate(350deg);"/>
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" width="50"/>
   </a>
 </p>
 
