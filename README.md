@@ -56,8 +56,10 @@
 
 ---
 
-# 🐍 **Snake Animation**
-<img src="https://raw.githubusercontent.com/Kunal-Chachane/Kunal-Chachane/output/github-contribution-grid-snake-dark.svg"/>
+# 📊 **GitHub Activity Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunal-Chachane&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
 ---
 
