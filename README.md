@@ -1,60 +1,50 @@
+
 <div align="center">
 
-<h1 style="
-  font-family: 'Orbitron', sans-serif;
-  color: #00eaff;
-  text-shadow: 0 0 10px #00eaff, 0 0 20px #00eaff;
-">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=2700&color=00EFFF&center=true&vCenter=true&width=900&lines=Kunal+Chachane+⚡;Backend+Developer+%7C+Cyberpunk+Engineer;Building+Scalable+%26+Futuristic+Systems;Welcome+to+My+Neon+World+⚔" />
+<!-- Typing Animation -->
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Hi+I'm+Kunal+Chachane+⚡;Backend+Developer+In+Progress+💻;Building+Scalable+Systems+%26+APIs;Welcome+to+My+GitHub+⚔" />
 </h1>
 
-<img src="https://komarev.com/ghpvc/?username=Kunal-Chachane&label=VIEWS&color=00D9FF&style=for-the-badge" />
+<!-- ⭐ Profile Views Badge -->
+<img src="https://komarev.com/ghpvc/?username=Kunal-Chachane&label=Profile%20Views&color=00D9FF&style=for-the-badge&logo=github" />
 
 <br><br>
 
-<div style="
-  padding: 20px;
-  border: 2px solid #00eaff;
-  border-radius: 20px;
-  width: 85%;
-  background: rgba(0, 20, 30, 0.75);
-  box-shadow: 0 0 20px #00eaff, inset 0 0 10px #003b45;
-  font-family: 'Courier New', monospace;
-">
-  
-<h1 style="color:#00eaff; text-shadow: 0 0 10px #00eaff;">🧑‍💻 ABOUT ME</h1>
-
-⚡ Cyberpunk-themed **Backend Developer**  
-🧠 Obsessed with **Java, APIs, System Design**  
-⚔ Love crafting futuristic backend architectures  
-🚀 Always learning, optimizing & scaling systems  
-🔮 Vision: Create backend systems that feel like sci-fi  
-
-</div>
-
-<br>
-
-<h1 style="color:#00eaff; text-shadow:0 0 10px #00eaff;">⚙️ Tech Stack</h1>
-
-<img src="https://skillicons.dev/icons?i=java,python,c,js,ts&theme=dark" />
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,express&theme=dark" />
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark" />
-<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify&theme=dark" />
+<!-- Dark Tech GIF -->
+<img src="https://i.gifer.com/origin/8a/8a84d91e9f510a7f4c2de913574ea8b5_w200.gif" width="250px" style="border-radius:20px;"/>
 
 ---
 
-<div style="
-  padding:20px;
-  width:87%;
-  border:2px solid #00eaff;
-  background:rgba(0,20,30,0.75);
-  border-radius:20px;
-  box-shadow:0 0 20px #00eaff, inset 0 0 15px #003e47;
-  font-family:'Orbitron', sans-serif;
-">
+# 🧑‍💻 **About Me**
+⚡ Aspiring **Backend Developer**  
+🧠 Passionate about **Java, APIs & System Design**  
+💻 Love building scalable backend systems  
+📈 Constantly improving & learning  
+🔥 Focused on logic, performance & clean code  
 
-<h1 style="color:#00eaff; text-shadow:0 0 10px #00eaff;">⚡ GitHub Stats</h1>
+---
+
+# ⚙️ **Tech Stack**
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=java,python,c,js,ts&theme=dark"/>
+
+### 🧠 Backend
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,express&theme=dark"/>
+
+### 🗄 Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark"/>
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark"/>
+
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify&theme=dark"/>
+
+---
+
+# ⚡ **GitHub Stats (Dark Neon)**
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kunal-Chachane&show_icons=true&theme=tokyonight&border_radius=20" />
@@ -65,17 +55,16 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-Chachane&layout=compact&theme=tokyonight&border_radius=20" />
 </p>
 
-</div>
+---
+
+# 📊 **GitHub Activity Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunal-Chachane&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
 ---
 
-<h1 style="color:#00eaff; text-shadow:0 0 10px #00eaff;">📊 Activity Graph</h1>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunal-Chachane&theme=tokyo-night&hide_border=true&area=true" />
-
----
-
-<h1 style="color:#00eaff; text-shadow:0 0 10px #00eaff;">🌐 Connect With Me</h1>
-
+# 🌐 **Let’s Connect**
 <p align="center">
   <a href="https://in.linkedin.com/in/kunal-chachane-ab1984316">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50"/>
