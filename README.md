@@ -1,81 +1,81 @@
-
 <div align="center">
 
-<img src="https://i.imgur.com/RP4u7oy.jpeg" width="100%" />
-
-<br><br>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=32&duration=2500&pause=800&color=FF61D8&center=true&vCenter=true&width=600&lines=Welcome+to+My+Anime+World+🍥;Developer+✨+Coder+⚡+Dreamer;Powered+by+Coffee+%2B+Anime+❤️" />
+<!-- Typing Animation -->
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Hi+I'm+Kunal+Chachane+⚡;Backend+Developer+In+Progress+💻;Building+Scalable+Systems+%26+APIs;Welcome+to+My+GitHub+⚔" />
 </h1>
 
-<br>
-
-<img src="https://i.imgur.com/GxR6RbJ.gif" width="230" style="border-radius:20px;"/>
-
-<br><br>
-
-# 🌸 About Me
-🎌 Anime lover & passionate developer  
-✨ Backend • APIs • Problem Solving  
-💖 I enjoy building aesthetic UI & fun projects  
-🔥 Coding while watching anime since forever  
-
-<br>
-
-# 🍡 Anime Socials
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github&theme=light" width="45"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="45"/> &nbsp;
-  <img src="https://skillicons.dev/icons?i=twitter&theme=light" width="45"/>
-</p>
-
-<br>
-
-# 🌸 Anime Stats Card
-<img src="https://i.imgur.com/VJfuaqV.png" width="380"/>
+<!-- ⭐ Profile Views Badge -->
+<img src="https://komarev.com/ghpvc/?username=Kunal-Chachane&label=Profile%20Views&color=00D9FF&style=for-the-badge&logo=github" />
 
 <br><br>
 
-# 🍥 GitHub Stats
+<!-- Dark Tech GIF -->
+<img src="https://i.gifer.com/origin/8a/8a84d91e9f510a7f4c2de913574ea8b5_w200.gif" width="250px" style="border-radius:20px;"/>
+
+---
+
+# 🧑‍💻 **About Me**
+⚡ Aspiring **Backend Developer**  
+🧠 Passionate about **Java, APIs & System Design**  
+💻 Love building scalable backend systems  
+📈 Constantly improving & learning  
+🔥 Focused on logic, performance & clean code  
+
+---
+
+# ⚙️ **Tech Stack**
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=java,python,c,js,ts&theme=dark"/>
+
+### 🧠 Backend
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,express&theme=dark"/>
+
+### 🗄 Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark"/>
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark"/>
+
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify&theme=dark"/>
+
+---
+
+# ⚡ **GitHub Stats (Dark Neon)**
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kunal-Chachane&show_icons=true&theme=tokyonight&border_radius=20" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Kunal-Chachane&theme=tokyonight&border_radius=20" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal-Chachane&theme=tokyonight&border_radius=20" />
 </p>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-Chachane&layout=compact&theme=tokyonight&border_radius=20" />
 </p>
 
-<br>
+---
 
-# 🌸 My Best Projects
+# 📊 **GitHub Activity Graph**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-Chachane&repo=YourRepoName&theme=tokyonight&border_radius=20" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-Chachane&repo=AnotherRepo&theme=tokyonight&border_radius=20" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunal-Chachane&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
-<br>
+---
 
-# 🍡 Anime Arcade
+# 🌐 **Let’s Connect**
 <p align="center">
-  <img src="https://i.imgur.com/Tv2e9HI.gif" width="220"/>
-  <img src="https://i.imgur.com/54KC6Zr.gif" width="220"/>
+  <a href="https://in.linkedin.com/in/kunal-chachane-ab1984316">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:kunalchachane59@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Kunal_999/">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" width="50"/>
+  </a>
 </p>
-
-<br>
-
-# 🍥 Skills
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,nodejs,mysql,mongodb,git,react&theme=light" />
-
-<br><br>
-
-# 🌸 Anime Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunal-Chachane&theme=sakura&hide_border=true&area=true" />
-
-<br><br>
-
-# 🎀 Thank You For Visiting  
-<img src="https://i.imgur.com/qcS9F4j.gif" width="200"/>
 
 </div>
