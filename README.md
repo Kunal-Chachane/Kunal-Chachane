@@ -14,7 +14,7 @@
 <!-- Dark Tech GIF -->
 <img src="https://i.gifer.com/origin/8a/8a84d91e9f510a7f4c2de913574ea8b5_w200.gif" width="250px" style="border-radius:20px;"/>
 
-
+---
 
 # 🧑‍💻 **About Me**
 ⚡ Aspiring **Backend Developer**  
@@ -23,6 +23,7 @@
 📈 Constantly improving & learning  
 🔥 Focused on logic, performance & clean code  
 
+---
 
 # ⚙️ **Tech Stack**
 
