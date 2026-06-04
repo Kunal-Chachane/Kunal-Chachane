@@ -1,109 +1,133 @@
 <div align="center">
 
-# Kunal Chachane
+# 👋 Hi, I'm Kunal Chachane
 
 ### 📊 Aspiring Data Analyst | Python • SQL • Power BI
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=00D9FF&lines=Turning+Data+into+Insights;Python+%7C+SQL+%7C+Power+BI;Learning+Data+Analytics+and+Data+Science" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=750&color=00D9FF&lines=Turning+Data+into+Insights;Python+%7C+SQL+%7C+Power+BI;Data+Analytics+%7C+Visualization;Learning+Data+Science" />
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Kunal-Chachane&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Kunal-Chachane&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 📌 About Me
 
-- 📊 Aspiring Data Analyst passionate about solving problems using data
-- 🐍 Working with Python, SQL, Excel, and Power BI
-- 📈 Interested in Data Visualization, EDA, and Business Analytics
-- 📚 Currently learning advanced analytics and data science concepts
-- 🚀 Building projects to strengthen analytical thinking and decision-making skills
+<div align="center">
+
+📊 Passionate about transforming raw data into meaningful insights
+
+🐍 Working with Python, SQL, Excel, and Power BI
+
+📈 Interested in Data Analytics, Visualization, and Business Intelligence
+
+📚 Continuously learning Data Science concepts and analytical techniques
+
+🚀 Building projects that solve real-world problems using data
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming & Databases
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql" />
-</p>
+### Programming & Database
+
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+
+<br><br>
 
 ### Data Analytics
 
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<br><br>
 
 ### Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+</div>
 
 ---
 
 ## 📈 GitHub Statistics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kunal-Chachane&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal-Chachane&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-Chachane&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kunal-Chachane&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal-Chachane&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-Chachane&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
 ## 📊 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunal-Chachane&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunal-Chachane&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
 
 ---
 
 ## 🎯 Current Focus
 
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis (EDA)
-- SQL for Business Analytics
-- Power BI Dashboard Development
-- Data Visualization
-- Business Reporting & Insights
+<div align="center">
+
+📌 Data Cleaning & Preprocessing
+
+📌 Exploratory Data Analysis (EDA)
+
+📌 SQL Query Writing & Optimization
+
+📌 Power BI Dashboard Development
+
+📌 Data Visualization
+
+📌 Business Reporting & Insights
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://in.linkedin.com/in/kunal-chachane-ab1984316">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:kunalchachane59@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### 📊 Turning Data into Actionable Insights
+### 📊 Turning Data Into Actionable Insights
 
 </div>
