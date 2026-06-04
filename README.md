@@ -112,19 +112,29 @@
 
 <div align="center">
 
-<a href="https://in.linkedin.com/in/kunal-chachane-ab1984316">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+<a href="https://in.linkedin.com/in/kunal-chachane-ab1984316" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
 </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:kunalchachane59@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="55" />
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/Kunal_999/" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="55" />
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://kunalchachanee.netlify.app/" target="_blank">
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="55" />
 </a>
 
 </div>
-
----
 
 <div align="center">
 
