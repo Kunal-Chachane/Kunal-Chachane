@@ -112,32 +112,20 @@
 
 <div align="center">
 
-<a href="https://in.linkedin.com/in/kunal-chachane-ab1984316" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+<a href="https://in.linkedin.com/in/kunal-chachane-ab1984316">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:kunalchachane59@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="55" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/Kunal_999/" target="_blank">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="55" />
+<a href="https://leetcode.com/u/Kunal_999/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://kunalchachanee.netlify.app/" target="_blank">
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="55" />
+<a href="https://kunalchachanee.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
-
-</div>
-
-<div align="center">
-
-### 📊 Turning Data Into Actionable Insights
 
 </div>
