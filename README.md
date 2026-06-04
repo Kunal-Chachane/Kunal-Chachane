@@ -4,17 +4,17 @@
 
 ### 📊 Aspiring Data Analyst | Python • SQL • Power BI
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=750&color=00D9FF&lines=Turning+Data+into+Insights;Python+%7C+SQL+%7C+Power+BI;Data+Analytics+%7C+Visualization;Learning+Data+Science" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Turning+Data+into+Insights+📊;Python+%7C+SQL+%7C+Power+BI;Data+Analytics+%7C+Visualization;Learning+Data+Science+🚀" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Kunal-Chachane&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Kunal-Chachane&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 📌 About Me
+## 👨‍💻 About Me
 
 <div align="center">
 
@@ -22,7 +22,7 @@
 
 🐍 Working with Python, SQL, Excel, and Power BI
 
-📈 Interested in Data Analytics, Visualization, and Business Intelligence
+📈 Interested in Data Analytics, Data Visualization, and Business Intelligence
 
 📚 Continuously learning Data Science concepts and analytical techniques
 
@@ -36,9 +36,15 @@
 
 <div align="center">
 
-### Programming & Database
+### Programming
 
-<img src="https://skillicons.dev/icons?i=python,mysql" />
+<img src="https://skillicons.dev/icons?i=python" />
+
+<br><br>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
 <br><br>
 
@@ -127,5 +133,13 @@
 <a href="https://kunalchachanee.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 Turning Data Into Actionable Insights
 
 </div>
