@@ -14,9 +14,12 @@
 
 ---
 
+```html
 ## 👨‍💻 About Me
 
-<div align="center">
+<table>
+<tr>
+<td width="70%">
 
 📊 Passionate about transforming raw data into meaningful insights
 
@@ -28,7 +31,16 @@
 
 🚀 Building projects that solve real-world problems using data
 
-</div>
+</td>
+
+<td width="30%" align="center">
+
+<img src="./images/octocat-scientist.png" width="220"/>
+
+</td>
+</tr>
+</table>
+```
 
 ---
 
