@@ -1,5 +1,6 @@
+<div align="center">
 # 👋 Hi, I'm Kunal Chachane
-
+</div>
 <div align="center">
 
 ### 📊 Aspiring Data Analyst | Python • SQL • Power BI
