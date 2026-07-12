@@ -17,48 +17,15 @@
 </div>
 
 ---
+# 📊 About Me
 
-# 💫 About Me
-
-```python
-class KunalChachane:
-
-    def __init__(self):
-
-        self.name = "Kunal Chachane"
-
-        self.role = [
-            "Data Analyst",
-            "AI Developer"
-        ]
-
-        self.skills = [
-            "Python",
-            "SQL",
-            "Power BI",
-            "Excel",
-            "Machine Learning"
-        ]
-
-        self.learning = [
-            "Deep Learning",
-            "Generative AI",
-            "LangChain",
-            "FastAPI",
-            "MLOps"
-        ]
-
-        self.interests = [
-            "Artificial Intelligence",
-            "Data Analytics",
-            "Business Intelligence",
-            "LLMs",
-            "Automation"
-        ]
-
-    def goal(self):
-        return "Build AI systems that solve real-world problems 🚀"
-```
+- 🎓 Computer Science student passionate about **Data Analytics** and **Business Intelligence**.
+- 📊 Skilled in **Python, SQL, Excel, Power BI, Pandas, and NumPy**.
+- 📈 Experienced in **Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, and Dashboard Development**.
+- 💡 Passionate about transforming raw data into actionable insights for better decision-making.
+- 🌱 Currently learning **Machine Learning**, **Advanced SQL**, and **Data Storytelling**.
+- 🚀 Always building real-world analytics projects to strengthen practical skills.
+- 🎯 Aspiring to become a **Data Analyst** who delivers impactful, data-driven business solutions.
 
 ---
 
