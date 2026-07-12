@@ -87,6 +87,25 @@
 </div>
 
 ---
+**🏅 Profile Summary**
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mani19492&theme=radical)
+
+</td>
+<td align="center" width="50%">
+
+**📈 Productive Time**
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mani19492&theme=radical)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 📊 Contribution Activity
 
