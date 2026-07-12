@@ -4,11 +4,11 @@
 
 ### 📊 Aspiring Data Analyst | Python • SQL • Power BI • Business Intelligence
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Transforming+Data+into+Insights;Building+Interactive+Dashboards;Always+Learning+New+Things+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Business+Intelligence;Turning+Data+into+Insights;Always+Learning+🚀" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Kunal-Chachane&label=Profile+Views&style=for-the-badge&color=0891b2"/>
+<img src="https://komarev.com/ghpvc/?username=Kunal-Chachane&label=Profile%20Views&style=for-the-badge&color=0891b2"/>
 
 <img src="https://img.shields.io/github/followers/Kunal-Chachane?style=for-the-badge"/>
 
@@ -20,26 +20,56 @@
 
 # 📊 About Me
 
-I'm a **Computer Science student** passionate about transforming raw data into meaningful insights that support better decision-making.
-
-I enjoy working with **Python, SQL, Power BI, Excel, Pandas, and NumPy** to clean, analyze, visualize, and interpret data. My interests include **Data Analytics, Business Intelligence, Dashboard Development, Data Visualization, and Statistical Analysis**.
-
-I continuously improve my analytical skills by working on real-world datasets, building interactive dashboards, and developing end-to-end data analytics projects.
-
-🎯 **My goal is to become a Data Analyst who helps organizations make smarter, data-driven decisions.**
+I'm a **Computer Science student** passionate about leveraging data to solve business problems. With expertise in **Python, SQL, Excel, and Power BI**, I enjoy uncovering insights, building dashboards, and supporting data-driven decision-making.
 
 ---
 
 # 💻 Technical Skills
 
 | Category | Technologies |
-|-----------|--------------|
+|----------|--------------|
 | **Programming** | Python, SQL |
 | **Databases** | MySQL, PostgreSQL, SQLite |
-| **Data Analysis** | Pandas, NumPy, Data Cleaning, Exploratory Data Analysis (EDA) |
-| **Visualization** | Power BI, Matplotlib, Seaborn, Excel |
+| **Data Analysis** | Pandas, NumPy, Data Cleaning, EDA |
+| **Visualization** | Power BI, Excel, Matplotlib, Seaborn |
 | **Tools** | Git, GitHub, Jupyter Notebook, VS Code |
-| **Learning** | Statistics, Machine Learning, Data Storytelling |
+| **Currently Learning** | Statistics, Machine Learning, Data Storytelling |
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+### Programming
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres"/>
+
+<br><br>
+
+### Data Analysis
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+<br><br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+</div>
 
 ---
 
@@ -51,7 +81,7 @@ I continuously improve my analytical skills by working on real-world datasets, b
 
 <img height="170" src="https://streak-stats.demolab.com?user=Kunal-Chachane&theme=tokyonight&hide_border=true"/>
 
-<br>
+<br><br>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-Chachane&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -65,13 +95,13 @@ I continuously improve my analytical skills by working on real-world datasets, b
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kunal-Chachane&theme=github_dark"/>
 
-<br>
+<br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kunal-Chachane&theme=github_dark"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kunal-Chachane&theme=github_dark"/>
 
-<br>
+<br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kunal-Chachane&theme=github_dark"/>
 
@@ -91,16 +121,16 @@ I continuously improve my analytical skills by working on real-world datasets, b
 
 ---
 
-# 📌 Featured Projects
+# 📂 Featured Projects
 
 | Project | Description |
-|----------|-------------|
-| 📊 Sales Dashboard | Interactive Power BI Dashboard |
-| 🏦 Banking Analytics | Customer & Loan Analysis using SQL and Python |
-| 🛒 E-commerce Analytics | Customer Behavior & Sales Insights |
-| 📈 HR Analytics | Employee Performance Dashboard |
-| 📉 Data Cleaning | Data Preprocessing using Pandas |
-| 📋 Excel Dashboard | Business KPI Dashboard |
+|---------|-------------|
+| 📊 Sales Dashboard | Interactive Power BI dashboard with KPI analysis |
+| 🏦 Banking Analytics | SQL & Python-based customer analytics |
+| 🛒 E-Commerce Analytics | Customer behavior and sales analysis |
+| 👥 HR Analytics | Workforce insights dashboard |
+| 📈 Data Cleaning | Data preprocessing using Pandas |
+| 📋 Excel Dashboard | Interactive business reporting |
 
 ---
 
@@ -111,7 +141,7 @@ I continuously improve my analytical skills by working on real-world datasets, b
 - 📉 Data Visualization
 - 📊 Dashboard Development
 - 🗄 SQL Query Optimization
-- 📚 Statistics for Data Analysis
+- 📚 Statistics
 - 📖 Data Storytelling
 - 📈 Business Intelligence
 
@@ -121,8 +151,8 @@ I continuously improve my analytical skills by working on real-world datasets, b
 
 - 💻 Solving Data Structures & Algorithms problems on LeetCode
 - 📊 Building real-world Data Analytics projects
-- 📈 Developing interactive dashboards using Power BI
-- 🐍 Improving Python skills through practical projects
+- 📈 Developing interactive Power BI dashboards
+- 🐍 Strengthening Python through practical applications
 
 ---
 
@@ -130,17 +160,11 @@ I continuously improve my analytical skills by working on real-world datasets, b
 
 ```text
 Python             ████████████████████ 100%
-
 SQL                ████████████████████ 100%
-
 Excel              ███████████████████░ 95%
-
 Power BI           ██████████████████░░ 90%
-
 Statistics         ████████████████░░░░ 80%
-
 Machine Learning   ██████████████░░░░░░ 70%
-
 Data Storytelling  █████████████░░░░░░░ 65%
 ```
 
@@ -174,10 +198,9 @@ Data Storytelling  █████████████░░░░░░░ 
 
 ## 💡 Favorite Quote
 
-*"Without data, you're just another person with an opinion."*
+> **"Without data, you're just another person with an opinion."**  
+> **— W. Edwards Deming**
 
-**— W. Edwards Deming**
-
-⭐ Thanks for visiting my profile! If you like my work, consider giving my repositories a ⭐.
+⭐ *Thanks for visiting my profile! If you like my work, consider starring my repositories.*
 
 </div>
