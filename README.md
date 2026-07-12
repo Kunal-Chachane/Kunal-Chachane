@@ -2,53 +2,77 @@
 
 # 👋 Hi, I'm Kunal Chachane
 
-### 📊 Data Analyst | Python • SQL • Power BI • Business Intelligence
+### 🚀 Data Analyst | AI Developer | Machine Learning Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Transforming+Data+into+Business+Insights;Python+%7C+SQL+%7C+Power+BI;Data+Analytics+%7C+Visualization;Building+Data-Driven+Solutions+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Data+Analyst;AI+Developer;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Enthusiast;Building+Intelligent+Solutions+🚀" />
 
-<br><br>
+<br>
 
-<img src="images/octocat-scientist.png" width="280" />
+<img src="https://komarev.com/ghpvc/?username=Kunal-Chachane&label=PROFILE+VIEWS&style=for-the-badge&color=00C7FF"/>
 
-<br><br>
+<img src="https://img.shields.io/github/followers/Kunal-Chachane?style=for-the-badge&logo=github"/>
 
-<img src="https://komarev.com/ghpvc/?username=Kunal-Chachane&label=PROFILE+VIEWS&color=00FFFF&style=for-the-badge" />
-
-</div>
-
----
-
-## 🚀 About Me
-
-<div align="center">
-
-📊 Passionate about transforming raw data into meaningful insights
-
-🐍 Skilled in Python, SQL, Excel, and Power BI
-
-📈 Interested in Data Analytics, Data Visualization, and Business Intelligence
-
-📚 Continuously learning Data Science concepts and advanced analytical techniques
-
-🚀 Building real-world projects that solve business problems using data
-
-🎯 Focused on creating impactful dashboards and actionable insights
+<img src="https://img.shields.io/github/stars/Kunal-Chachane?affiliations=OWNER&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+# 💫 About Me
+
+```python
+class KunalChachane:
+
+    def __init__(self):
+
+        self.name = "Kunal Chachane"
+
+        self.role = [
+            "Data Analyst",
+            "AI Developer"
+        ]
+
+        self.skills = [
+            "Python",
+            "SQL",
+            "Power BI",
+            "Excel",
+            "Machine Learning"
+        ]
+
+        self.learning = [
+            "Deep Learning",
+            "Generative AI",
+            "LangChain",
+            "FastAPI",
+            "MLOps"
+        ]
+
+        self.interests = [
+            "Artificial Intelligence",
+            "Data Analytics",
+            "Business Intelligence",
+            "LLMs",
+            "Automation"
+        ]
+
+    def goal(self):
+        return "Build AI systems that solve real-world problems 🚀"
+```
+
+---
+
+# 🛠 Tech Stack
 
 <div align="center">
 
-### Programming & Databases
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,postgres"/>
 
 <br><br>
 
-### Data Analytics & Visualization
+### 📊 Data Analytics
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
@@ -62,9 +86,17 @@
 
 <br><br>
 
-### Tools & Platforms
+### 🤖 AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<br><br>
+
+### ⚙️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
@@ -72,81 +104,124 @@
 
 ---
 
-## 📈 GitHub Analytics
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kunal-Chachane&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kunal-Chachane&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal-Chachane&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://streak-stats.demolab.com?user=Kunal-Chachane&theme=tokyonight&hide_border=true"/>
 
-<br><br>
+<br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-Chachane&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-**🏅 Profile Summary**
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mani19492&theme=radical)
-
-</td>
-<td align="center" width="50%">
-
-**📈 Productive Time**
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mani19492&theme=radical)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
----
-
-## 📊 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunal-Chachane&theme=tokyo-night&hide_border=true&area=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-Chachane&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+# 🏆 GitHub Summary
 
 <div align="center">
 
-🔹 Data Cleaning & Preprocessing
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kunal-Chachane&theme=github_dark"/>
 
-🔹 Exploratory Data Analysis (EDA)
+<br>
 
-🔹 SQL Query Optimization
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kunal-Chachane&theme=github_dark"/>
 
-🔹 Power BI Dashboard Development
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kunal-Chachane&theme=github_dark"/>
 
-🔹 Data Storytelling & Visualization
+<br>
 
-🔹 Business Intelligence & Reporting
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kunal-Chachane&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kunal-Chachane&theme=github_dark&utcOffset=5.5"/>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+# 📊 Contribution Graph
 
 <div align="center">
 
-<a href="https://in.linkedin.com/in/kunal-chachane-ab1984316">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunal-Chachane&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🚀 Current Focus
+
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 🔥 Generative AI
+- 📊 Data Analytics
+- 📈 Data Visualization
+- 📉 Business Intelligence
+- ⚡ FastAPI
+- 🦜 LangChain
+- ☁️ MLOps
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Machine Learning
+- ✅ Learn Deep Learning
+- ✅ Build End-to-End AI Applications
+- ✅ Publish an IEEE Research Paper
+- ✅ Solve 500+ LeetCode Problems
+- ✅ Contribute to Open Source
+- ✅ Build SaaS AI Projects
+
+---
+
+# 📌 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🤖 AI Projects | Machine Learning & Generative AI |
+| 📊 Power BI Dashboards | Interactive Business Dashboards |
+| 🐍 Python Projects | Automation & Data Analysis |
+| 🌐 Web Apps | AI Powered Applications |
+| 📈 Analytics Projects | Business Intelligence Solutions |
+
+---
+
+# 📚 Currently Learning
+
+```text
+Python            ████████████████████ 100%
+
+SQL               ███████████████████ 100%
+
+Power BI          █████████████████░░ 90%
+
+Machine Learning  ███████████████░░░░ 75%
+
+Deep Learning     ███████████░░░░░░░░ 55%
+
+Generative AI     █████████░░░░░░░░░░ 45%
+
+LangChain         ██████░░░░░░░░░░░░░ 35%
+
+MLOps             ████░░░░░░░░░░░░░░░ 25%
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/kunal-chachane-ab1984316">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:kunalchachane59@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/Kunal_999/">
@@ -161,12 +236,18 @@
 
 ---
 
+# 💭 Quote
+
 <div align="center">
 
-## 📊 Turning Data Into Actionable Insights
+## 💡 "Without data, you're just another person with an opinion."
 
-### *"Without data, you're just another person with an opinion."*
+### — W. Edwards Deming
 
-⭐ If you like my projects, consider giving them a star!
+⭐ Thanks for visiting my profile.
+
+If you like my work, don't forget to ⭐ my repositories!
+
+🚀 Let's build intelligent solutions together.
 
 </div>
