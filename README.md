@@ -2,44 +2,58 @@
 
 # 👋 Hi, I'm Kunal Chachane
 
-### 🚀 Data Analyst | AI Developer | Machine Learning Enthusiast
+### 📊 Aspiring Data Analyst | Python • SQL • Power BI • Business Intelligence
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Data+Analyst;AI+Developer;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Enthusiast;Building+Intelligent+Solutions+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Transforming+Data+into+Insights;Building+Interactive+Dashboards;Always+Learning+New+Things+🚀"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Kunal-Chachane&label=PROFILE+VIEWS&style=for-the-badge&color=00C7FF"/>
+<img src="https://komarev.com/ghpvc/?username=Kunal-Chachane&label=Profile+Views&style=for-the-badge&color=0891b2"/>
 
-<img src="https://img.shields.io/github/followers/Kunal-Chachane?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/followers/Kunal-Chachane?style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/stars/Kunal-Chachane?affiliations=OWNER&style=for-the-badge"/>
 
 </div>
 
 ---
+
 # 📊 About Me
 
-- 🎓 Computer Science student passionate about **Data Analytics** and **Business Intelligence**.
-- 📊 Skilled in **Python, SQL, Excel, Power BI, Pandas, and NumPy**.
-- 📈 Experienced in **Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, and Dashboard Development**.
-- 💡 Passionate about transforming raw data into actionable insights for better decision-making.
-- 🌱 Currently learning **Machine Learning**, **Advanced SQL**, and **Data Storytelling**.
-- 🚀 Always building real-world analytics projects to strengthen practical skills.
-- 🎯 Aspiring to become a **Data Analyst** who delivers impactful, data-driven business solutions.
+I'm a **Computer Science student** passionate about transforming raw data into meaningful insights that support better decision-making.
+
+I enjoy working with **Python, SQL, Power BI, Excel, Pandas, and NumPy** to clean, analyze, visualize, and interpret data. My interests include **Data Analytics, Business Intelligence, Dashboard Development, Data Visualization, and Statistical Analysis**.
+
+I continuously improve my analytical skills by working on real-world datasets, building interactive dashboards, and developing end-to-end data analytics projects.
+
+🎯 **My goal is to become a Data Analyst who helps organizations make smarter, data-driven decisions.**
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Technical Skills
+
+| Category | Technologies |
+|-----------|--------------|
+| **Programming** | Python, SQL |
+| **Databases** | MySQL, PostgreSQL, SQLite |
+| **Data Analysis** | Pandas, NumPy, Data Cleaning, Exploratory Data Analysis (EDA) |
+| **Visualization** | Power BI, Matplotlib, Seaborn, Excel |
+| **Tools** | Git, GitHub, Jupyter Notebook, VS Code |
+| **Learning** | Statistics, Machine Learning, Data Storytelling |
+
+---
+
+## 🛠️ Technologies
 
 <div align="center">
 
-### 💻 Programming Languages
+### Programming
 
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,postgres"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres"/>
 
 <br><br>
 
-### 📊 Data Analytics
+### Data Analytics
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
@@ -47,21 +61,15 @@
 
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
 <br><br>
 
-### 🤖 AI / Machine Learning
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<br><br>
-
-### ⚙️ Tools
+### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
@@ -119,62 +127,57 @@
 
 ---
 
-# 🚀 Current Focus
-
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 🔥 Generative AI
-- 📊 Data Analytics
-- 📈 Data Visualization
-- 📉 Business Intelligence
-- ⚡ FastAPI
-- 🦜 LangChain
-- ☁️ MLOps
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Master Machine Learning
-- ✅ Learn Deep Learning
-- ✅ Build End-to-End AI Applications
-- ✅ Publish an IEEE Research Paper
-- ✅ Solve 500+ LeetCode Problems
-- ✅ Contribute to Open Source
-- ✅ Build SaaS AI Projects
-
----
-
 # 📌 Featured Projects
 
 | Project | Description |
-|---------|-------------|
-| 🤖 AI Projects | Machine Learning & Generative AI |
-| 📊 Power BI Dashboards | Interactive Business Dashboards |
-| 🐍 Python Projects | Automation & Data Analysis |
-| 🌐 Web Apps | AI Powered Applications |
-| 📈 Analytics Projects | Business Intelligence Solutions |
+|----------|-------------|
+| 📊 Sales Dashboard | Interactive Power BI Dashboard |
+| 🏦 Banking Analytics | Customer & Loan Analysis using SQL and Python |
+| 🛒 E-commerce Analytics | Customer Behavior & Sales Insights |
+| 📈 HR Analytics | Employee Performance Dashboard |
+| 📉 Data Cleaning | Data Preprocessing using Pandas |
+| 📋 Excel Dashboard | Business KPI Dashboard |
+
+---
+
+# 🚀 Current Focus
+
+- 📊 Data Cleaning & Preprocessing
+- 📈 Exploratory Data Analysis (EDA)
+- 📉 Data Visualization
+- 📊 Dashboard Development
+- 🗄 SQL Query Optimization
+- 📚 Statistics for Data Analysis
+- 📖 Data Storytelling
+- 📈 Business Intelligence
+
+---
+
+# 🏆 Achievements
+
+- 💻 Solving Data Structures & Algorithms problems on LeetCode
+- 📊 Building real-world Data Analytics projects
+- 📈 Developing interactive dashboards using Power BI
+- 🐍 Improving Python skills through practical projects
 
 ---
 
 # 📚 Currently Learning
 
 ```text
-Python            ████████████████████ 100%
+Python             ████████████████████ 100%
 
-SQL               ███████████████████ 100%
+SQL                ████████████████████ 100%
 
-Power BI          █████████████████░░ 90%
+Excel              ███████████████████░ 95%
 
-Machine Learning  ███████████████░░░░ 75%
+Power BI           ██████████████████░░ 90%
 
-Deep Learning     ███████████░░░░░░░░ 55%
+Statistics         ████████████████░░░░ 80%
 
-Generative AI     █████████░░░░░░░░░░ 45%
+Machine Learning   ██████████████░░░░░░ 70%
 
-LangChain         ██████░░░░░░░░░░░░░ 35%
-
-MLOps             ████░░░░░░░░░░░░░░░ 25%
+Data Storytelling  █████████████░░░░░░░ 65%
 ```
 
 ---
@@ -203,18 +206,14 @@ MLOps             ████░░░░░░░░░░░░░░░ 25%
 
 ---
 
-# 💭 Quote
-
 <div align="center">
 
-## 💡 "Without data, you're just another person with an opinion."
+## 💡 Favorite Quote
 
-### — W. Edwards Deming
+*"Without data, you're just another person with an opinion."*
 
-⭐ Thanks for visiting my profile.
+**— W. Edwards Deming**
 
-If you like my work, don't forget to ⭐ my repositories!
-
-🚀 Let's build intelligent solutions together.
+⭐ Thanks for visiting my profile! If you like my work, consider giving my repositories a ⭐.
 
 </div>
